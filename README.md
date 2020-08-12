@@ -1,7 +1,7 @@
 # GML-Mode
 A Crude implementation of a major mode for Game maker Language in and for Emacs.
 
-##Licence
+## Licence
   You can redistribute this program and/or modify it under the terms of the GNU General Public License version 3
 
 ## Installation
